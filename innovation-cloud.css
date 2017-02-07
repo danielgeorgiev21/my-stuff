@@ -1,0 +1,84 @@
+body {
+    Font-family: "Lato", sans-serif;
+    Text-color: #ffffff;
+    margin: 0;
+}
+
+h1 {
+    font-size: 80px;
+    text-align: center;
+    Padding:80px 0;
+    Letter-spacing: 8px;
+    text-transform: uppercase;
+    color: white;
+}
+
+header p {
+    font-size: 27px;
+    font-weight:  100;
+    Margin: 20px;
+    text-align: center;
+    color: white;
+}
+button {
+    color: #ffffff;
+    Background:none;
+    Border: 5px solid #ffffff;
+    Border-radius: 15px;
+    Padding: 15px 45px;
+    font-size: 16px;
+    margin:0 auto;
+}
+button:hover{
+    Background: #000;
+    Border-color: #000;
+    cursor: pointer;
+
+}
+.container {
+    margin: 0;
+    Padding: 30px 10px;
+    background: url("background-image.jpg") no-repeat center center;
+    Background-size: cover;
+    Height:800px;
+    text-align:center;
+
+}
+
+main {
+    margin: 50px auto;
+    Max-width: 1060px;
+    Padding: 0 10px;
+}
+
+h2 {
+    color: #234465;
+    Margin: 10px;
+}
+main p {
+    font-size: 16px;
+    color: #333333;
+    Margin-bottom: 5px;
+    Letter-spacing: 0;
+    Width:800px;
+}
+img {
+    float: left;
+    Width: 180px;
+    Height: 100px;
+    Margin: 10px 50px 0 0;
+
+}
+footer {
+    Background-color: #000000;
+}
+
+footer p {
+    text-align: center;
+    color: #ffffff;
+    font-size: 14px;
+    Height: 35px;
+    Line-height: 35px;
+    Margin: 0px;
+
+}
